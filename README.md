@@ -1,4 +1,4 @@
-# DiplomaVRRobotClient
+# DiplomaVRRobot
 How to install.
 
 1. Clone this repository
